@@ -1,0 +1,5 @@
+export const ADD_PLAYER = "ADD_PLAYER"
+export const ADD_PLAYER_ENTRY  = "ADD_PLAYER_ENTRY"
+export const ADD_POINTS = "ADD_POINTS"
+export const REMOVE_PLAYER = "REMOVE_PLAYER"
+export const UPDATE_PLAYER = "UPDATE_PLAYER"
